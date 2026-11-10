@@ -1,4 +1,5 @@
 python-dotenv
 openai
+google-genai
 aiogram
 aiohttp
